@@ -1,0 +1,14 @@
+{
+  "name": "tomorrow",
+  "version": "1.0.0",
+  "description": "a simple REST API example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sue Tairaku",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
